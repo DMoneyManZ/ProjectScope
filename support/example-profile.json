@@ -1,0 +1,31 @@
+{
+  "description": "Synthetic-background example for the technical support note.",
+  "game": "General FPS",
+  "id": "transparency-example",
+  "name": "Transparency example",
+  "schema_version": 1,
+  "style": {
+    "circle": {
+      "enabled": false,
+      "radius": 8.0,
+      "thickness": 1.0
+    },
+    "color": "#FFFFFF",
+    "dot": {
+      "enabled": false,
+      "radius": 1.0
+    },
+    "lines": {
+      "enabled": true,
+      "gap": 2,
+      "length": 4,
+      "thickness": 1,
+      "top": true
+    },
+    "opacity": 0.5,
+    "outline_color": "#000000",
+    "outline_width": 1,
+    "rotation": 0.0,
+    "scale": 1.0
+  }
+}

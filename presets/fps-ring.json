@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "fps-ring",
+  "name": "FPS Ring",
+  "description": "Cyan ring with dot for target acquisition without crosshair lines.",
+  "game": "General FPS",
+  "style": {
+    "color": "#00FFFF",
+    "opacity": 1.0,
+    "outline_color": "#000000",
+    "outline_width": 1.0,
+    "rotation": 0.0,
+    "scale": 1.0,
+    "lines": {
+      "enabled": false,
+      "length": 6.0,
+      "thickness": 2.0,
+      "gap": 4.0,
+      "top": true
+    },
+    "dot": {
+      "enabled": true,
+      "radius": 1.5
+    },
+    "circle": {
+      "enabled": true,
+      "radius": 8.0,
+      "thickness": 1.5
+    }
+  }
+}

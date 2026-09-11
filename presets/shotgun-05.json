@@ -1,0 +1,31 @@
+{
+  "description": "Manually selected shotgun-style visual preset. Does not detect weapons or represent bullet spread.",
+  "game": "FPS · Shotgun",
+  "id": "shotgun-05",
+  "name": "Shotgun05 · Compact ring",
+  "schema_version": 1,
+  "style": {
+    "circle": {
+      "enabled": true,
+      "radius": 6,
+      "thickness": 1
+    },
+    "color": "#FF66CC",
+    "dot": {
+      "enabled": true,
+      "radius": 1
+    },
+    "lines": {
+      "enabled": false,
+      "gap": 3,
+      "length": 4,
+      "thickness": 1,
+      "top": true
+    },
+    "opacity": 0.9,
+    "outline_color": "#000000",
+    "outline_width": 1,
+    "rotation": 0.0,
+    "scale": 1.0
+  }
+}

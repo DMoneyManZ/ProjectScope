@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "bodycam-subtle-dot",
+  "name": "Bodycam Subtle Dot",
+  "description": "Low-opacity white dot for subtle bodycam aesthetic.",
+  "game": "Bodycam",
+  "style": {
+    "color": "#FFFFFF",
+    "opacity": 0.4,
+    "outline_color": "#000000",
+    "outline_width": 1.0,
+    "rotation": 0.0,
+    "scale": 1.0,
+    "lines": {
+      "enabled": false,
+      "length": 6.0,
+      "thickness": 2.0,
+      "gap": 4.0,
+      "top": true
+    },
+    "dot": {
+      "enabled": true,
+      "radius": 2.0
+    },
+    "circle": {
+      "enabled": false,
+      "radius": 8.0,
+      "thickness": 1.0
+    }
+  }
+}

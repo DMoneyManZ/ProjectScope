@@ -1,0 +1,22 @@
+<schemalist>
+<schema id="org.gnome.shell.extensions.projectscope" path="/org/gnome/shell/extensions/projectscope/">
+<key name="profile" type="s"><default>&#x27;{&quot;schema_version&quot;: 1, &quot;id&quot;: &quot;cs2-precision&quot;, &quot;name&quot;: &quot;CS2 Precision&quot;, &quot;description&quot;: &quot;Compact cyan crosshair for competitive play in Counter-Strike 2.&quot;, &quot;game&quot;: &quot;Counter-Strike 2&quot;, &quot;style&quot;: {&quot;color&quot;: &quot;#00FFFF&quot;, &quot;opacity&quot;: 1.0, &quot;outline_color&quot;: &quot;#000000&quot;, &quot;outline_width&quot;: 1.5, &quot;rotation&quot;: 0.0, &quot;scale&quot;: 1.0, &quot;lines&quot;: {&quot;enabled&quot;: true, &quot;length&quot;: 6.0, &quot;thickness&quot;: 2.0, &quot;gap&quot;: 4.0, &quot;top&quot;: true}, &quot;dot&quot;: {&quot;enabled&quot;: false, &quot;radius&quot;: 1.0}, &quot;circle&quot;: {&quot;enabled&quot;: false, &quot;radius&quot;: 8.0, &quot;thickness&quot;: 1.0}}}&#x27;</default></key>
+<key name="visible" type="b"><default>true</default></key>
+<key name="toggle-key" type="as"><default>['Home']</default></key>
+<key name="monitor" type="i"><default>-1</default></key>
+<key name="offset-x" type="i"><default>0</default></key>
+<key name="offset-y" type="i"><default>0</default></key>
+<key name="preset-library" type="as"><default>[]</default></key>
+<key name="previous-key" type="as"><default>['Page_Up']</default></key>
+<key name="next-key" type="as"><default>['Page_Down']</default></key>
+<key name="random-key" type="as"><default>['Pause']</default></key>
+<key name="random-request" type="u"><default>0</default></key>
+<key name="show-label" type="b"><default>true</default></key>
+<key name="invert-label" type="b"><default>true</default></key>
+<key name="invert-crosshair" type="b"><default>false</default></key>
+<key name="save-key" type="as"><default>['Insert']</default></key>
+<key name="color-key" type="as"><default>['End']</default></key>
+<key name="og-controls" type="b"><default>false</default></key>
+<key name="updated-controls" type="s"><default>'{}'</default></key>
+</schema>
+</schemalist>

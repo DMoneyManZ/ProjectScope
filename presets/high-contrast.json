@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "high-contrast",
+  "name": "High Contrast",
+  "description": "Thick yellow cross with black outline for maximum visibility.",
+  "game": "General FPS",
+  "style": {
+    "color": "#FFFF00",
+    "opacity": 1.0,
+    "outline_color": "#000000",
+    "outline_width": 3.0,
+    "rotation": 0.0,
+    "scale": 1.2,
+    "lines": {
+      "enabled": true,
+      "length": 10.0,
+      "thickness": 4.0,
+      "gap": 6.0,
+      "top": true
+    },
+    "dot": {
+      "enabled": false,
+      "radius": 1.0
+    },
+    "circle": {
+      "enabled": false,
+      "radius": 8.0,
+      "thickness": 1.0
+    }
+  }
+}

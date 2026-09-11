@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "fps-balanced",
+  "name": "FPS Balanced",
+  "description": "Green cross with dot for balanced visibility in general FPS.",
+  "game": "General FPS",
+  "style": {
+    "color": "#00FF00",
+    "opacity": 1.0,
+    "outline_color": "#000000",
+    "outline_width": 1.5,
+    "rotation": 0.0,
+    "scale": 1.0,
+    "lines": {
+      "enabled": true,
+      "length": 8.0,
+      "thickness": 2.5,
+      "gap": 6.0,
+      "top": true
+    },
+    "dot": {
+      "enabled": true,
+      "radius": 2.0
+    },
+    "circle": {
+      "enabled": false,
+      "radius": 8.0,
+      "thickness": 1.0
+    }
+  }
+}

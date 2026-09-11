@@ -1,0 +1,8 @@
+{
+  "uuid": "projectscope@local",
+  "name": "ProjectScope Crosshair",
+  "description": "Customizable desktop crosshair. Press Home to show or hide. Configure using the ProjectScope launcher.",
+  "shell-version": ["50"],
+  "version": 5,
+  "settings-schema": "org.gnome.shell.extensions.projectscope"
+}
