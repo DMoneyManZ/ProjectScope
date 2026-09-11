@@ -190,3 +190,7 @@ lists the removed extension.
 | Extension error | Run `gnome-extensions info projectscope@local` and inspect `journalctl --user -b -o cat` for relevant errors. |
 
 More shortcut, display, and overlay guidance is in the [user guide](USER-GUIDE.md#troubleshooting).
+
+## Support development
+
+ProjectScope is free and open source. If it helps you, you can [support development with PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=demurphy242%40gmail.com&item_name=Support+ProjectScope+development&currency_code=USD). Choose any amount; contributions are optional and help support maintenance and improvements.

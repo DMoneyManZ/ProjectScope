@@ -84,6 +84,10 @@ Game and server rules still apply. Overlay permission and anti-cheat compatibili
 
 See [Development](docs/DEVELOPMENT.md) for the source layout and checks, and [Contributing](CONTRIBUTING.md) for useful bug reports and changes.
 
+## Support development
+
+ProjectScope is free and open source. If it helps you, you can [support development with PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=demurphy242%40gmail.com&item_name=Support+ProjectScope+development&currency_code=USD). Choose any amount; contributions are optional and help support maintenance and improvements.
+
 ## License
 
 [GNU General Public License v3.0](LICENSE) (`GPL-3.0-only`).
